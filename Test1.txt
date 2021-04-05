@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                       Test1.mq4 |
+//|                                                        Test1.mq4 |
 //|                        Copyright 2020, MetaQuotes Software Corp. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
@@ -8,7 +8,7 @@
 #property version   "1.00"
 #property strict
 #property show_inputs
-#include <CustomFunctions01.mqh>
+#include <CustomFunctions1.mqh>
 
 int magicNB = 55555;
 input int bbPeriod = 50;
