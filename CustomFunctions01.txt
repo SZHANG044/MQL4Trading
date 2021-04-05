@@ -1,10 +1,11 @@
 //+------------------------------------------------------------------+
-//|                                            CustomFunctions01.mqh |
-//|                                                    Mohsen Hassan |
-//|                             https://www.MontrealTradingGroup.com |
+//|                                              CustomFunctions.mqh |
+//|                        Copyright 2020, MetaQuotes Software Corp. |
+//|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Mohsen Hassan"
-#property link      "https://www.MontrealTradingGroup.com"
+#property copyright "Copyright 2020, MetaQuotes Software Corp."
+#property link      "https://www.mql5.com"
+#property version   "1.00"
 #property strict
 //+------------------------------------------------------------------+
 //| defines                                                          |
